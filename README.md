@@ -18,7 +18,7 @@ Skills: JavaScript, HTML5, CSS3, React, React Native, jQuery, Node.js, Express, 
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I grew up in Ireland 🇮🇪 without internet. 
 
-<a href="https://www.buymeacoffee.com/dfdfdf"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dfdfdf" /></a>
+<a href="https://www.buymeacoffee.com/ethanflower1"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dfdfdf" /></a>
 
 [<img style="background-color: blue;" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/EthanFlower1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ethan-flower/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/EthanFlower1)  
 

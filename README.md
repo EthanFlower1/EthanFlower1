@@ -1,14 +1,16 @@
-### Hi there 👋, my name is Ethan Flower
-#### I am a Full-Stack Software Engineer 
-![I am a Full-Stack Software Engineer ](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<div align="center">
+<h1> Hi there 👋, my name is Ethan Flower <h3> I am a Full-Stack Software Engineer<h3> </h1>
 
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+</div>
+<br>
 ✨ It all started when I got laid-off 📉 from my job 👔  at the beginning of the pandemic 🦠, 
 one of the engineers 👨🏾‍💻  told me I should consider software engineering because I’m sharp 🔪 and have good communication skills 📡. 
 
 So I began learning JavaScript and after a month I felt confident enough to try my first Leetcode easy problem. I was hooked🪝 I knew this was the right path for me. I used my Irish heritage 🇮🇪  to find a mentor👨🏼‍🦳 who recommended attending a Coding Bootcamp to jump-start my career. His advice led me to enroll in Hack Reactor ☢️ where I was able to strengthen 🏋🏻‍♂️  my engineering and interpersonal skills. Now I want to use my skills to solve interesting problems and make the world 🌍  a better place  📈.🚀
 
 
-Skills: JavaScript, HTML5, CSS3, React, React Native, jQuery, Node.js, Express, SQL, No-SQL and Go
+Skills: HTML5, CSS3, JavaScript, jQuery, Node.js, Express, React, React Native, MySQL, PostgreSQL, MongoDB and Go
 
 - 🔭 I’m currently working on my personal portfolio 
 - 🌱 I’m currently learning Typescript 
@@ -17,10 +19,16 @@ Skills: JavaScript, HTML5, CSS3, React, React Native, jQuery, Node.js, Express, 
 - 📫 How to reach me: ethanjamesflower@gmail.com 
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I grew up in Ireland 🇮🇪 without internet. 
-
+<br>
 <a href="https://www.buymeacoffee.com/ethanflower1"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dfdfdf" /></a>
+<hr>
 
-[<img style="background-color: blue;" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/EthanFlower1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ethan-flower/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/EthanFlower1)  
+<div align="center">
+
+<br>
+<br>
+<br>
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=EthanFlower1)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -31,3 +39,4 @@ Skills: JavaScript, HTML5, CSS3, React, React Native, jQuery, Node.js, Express, 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=EthanFlower1)  
 
 ![Profile views](https://gpvc.arturio.dev/EthanFlower1)  
+</div>

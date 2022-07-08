@@ -1,9 +1,17 @@
 <div align="center">
 <h1> Hi there 👋, my name is Ethan Flower <h3> I am a Full-Stack Software Engineer<h3> </h1>
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 </div>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 <br>
+<br>
+- 🔭 I’m currently working on my personal portfolio <br><br>
+- 🌱 I’m currently learning Typescript <br><br>
+- 👯 I’m looking to collaborate on interesting projects <br><br>
+- 💬 Ask me about any of my work! <br><br>
+- 📫 How to reach me: ethanjamesflower@gmail.com <br><br>
+- 😄 Pronouns: He/Him <br><br>
+- ⚡ Fun fact: I grew up in Ireland 🇮🇪 without internet.
+<br><br><br><br>
 ✨ It all started when I got laid-off 📉 from my job 👔  at the beginning of the pandemic 🦠, 
 one of the engineers 👨🏾‍💻  told me I should consider software engineering because I’m sharp 🔪 and have good communication skills 📡. 
 

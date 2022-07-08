@@ -20,13 +20,6 @@ So I began learning JavaScript and after a month I felt confident enough to try 
 
 Skills: HTML5, CSS3, JavaScript, jQuery, Node.js, Express, React, React Native, MySQL, PostgreSQL, MongoDB and Go
 
-- 🔭 I’m currently working on my personal portfolio 
-- 🌱 I’m currently learning Typescript 
-- 👯 I’m looking to collaborate on interesting projects 
-- 💬 Ask me about any of my work! 
-- 📫 How to reach me: ethanjamesflower@gmail.com 
-- 😄 Pronouns: He/Him 
-- ⚡ Fun fact: I grew up in Ireland 🇮🇪 without internet. 
 <br>
 <a href="https://www.buymeacoffee.com/ethanflower1"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dfdfdf" /></a>
 <hr>

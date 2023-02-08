@@ -12,10 +12,7 @@
 - 😄 Pronouns: He/Him <br><br>
 - ⚡ Fun fact: I grew up in Ireland 🇮🇪 without internet.
 <br><br><br><br>
-✨ It all started when I was looking for work 👔 at the beginning of the pandemic 🦠, 
-one of my friends who is an engineer 👨🏾‍💻 told me I should consider software engineering because I’m sharp 🔪 and have good communication skills 📡. 
-
-So I began learning JavaScript and after a month I felt confident enough to try my first Leetcode easy problem. I was hooked🪝 I knew this was the right path for me. I used my Irish heritage 🇮🇪  to find a mentor👨🏼‍🦳 who recommended attending a Coding Bootcamp to jump-start my career. His advice led me to enroll in Hack Reactor ☢️ where I was able to strengthen 🏋🏻‍♂️  my engineering and interpersonal skills. Now I want to use my skills to solve interesting problems and make the world 🌍  a better place  📈.🚀
+✨ I want to use my skills to solve interesting problems and make the world 🌍  a better place  📈.🚀
 
 
 ### Skills

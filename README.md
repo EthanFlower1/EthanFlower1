@@ -4,8 +4,8 @@
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 <br>
 <br>
-- 🔭 I’m currently working on my personal portfolio <br><br>
-- 🌱 I’m currently learning Typescript <br><br>
+- 🔭 I’m currently working on my personal projects <br><br>
+- 🌱 I’m currently learning Rust <br><br>
 - 👯 I’m looking to collaborate on interesting projects <br><br>
 - 💬 Ask me about any of my work! <br><br>
 - 📫 How to reach me: ethanjamesflower@gmail.com <br><br>

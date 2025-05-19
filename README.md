@@ -1,5 +1,5 @@
 <div align="center">
-<h1> Hi there 👋, my name is Ethan Flower <h3> I am a Full-Stack Software Engineer<h3> </h1>
+<h1> Hi there 👋, my name is Ethan Flower <h3> I am a Software Engineer<h3> </h1>
 </div>
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 <br>
